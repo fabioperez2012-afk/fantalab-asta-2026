@@ -1,0 +1,537 @@
+id,nome,squadra,ruolo_classico,ruoli_mantra,is_portiere,giudizio,pct_min,pct_max,pct_display,motivazione,corretto,trappola_assoluta,trappola_nota,occasione_regalo,occasione_nota,quotazione_attuale,fvm,non_in_listone
+4887,Bellanova,Atalanta,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,17.0,False
+7219,Bernasconi,Atalanta,D,Ds;E,False,solo_sotto,2.0,2.0,2% (12cr),ultimo/penultimo slot,False,False,,False,,5.0,18.0,False
+4431,Carnesecchi,Atalanta,P,,True,prendi,9.0,9.0,9% (54cr),scelta migliore,False,False,,False,,17.0,57.0,False
+5995,De Ketelaere,Atalanta,A,A,False,prendi,7.0,7.0,"7% (42cr) (idealmente 6,9% (41cr))",top scelta,False,False,,False,,17.0,92.0,False
+5792,Ederson D.S.,Atalanta,C,M;C,False,solo_sotto,4.0,4.0,4% (24cr),titolare ma costa di più,False,False,,False,,13.0,50.0,False
+4479,Elmas,Atalanta,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,22.0,False
+4364,Gaetano,Atalanta,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,30.0,False
+6046,Hien,Atalanta,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,11.0,False
+1850,Kessiè,Atalanta,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,12.0,44.0,False
+2640,Kolasinac,Atalanta,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,8.0,False
+5578,Kossounou,Atalanta,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+6485,Kristensen T.,Atalanta,D,Dd;Dc,False,solo_sotto,1.0,1.0,1% (6cr),soffre di infortuni,True,False,,False,,6.0,20.0,False
+6435,Krstovic,Atalanta,A,Pc,False,prendi,10.0,10.0,10% (60cr),meglio di Scamacca,False,False,,False,,18.0,96.0,False
+2077,Pasalic,Atalanta,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,21.0,False
+7626,Pompei,Atalanta,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4371,Raspadori,Atalanta,A,A,False,evita,,,—,ha perso il posto,False,False,,False,,13.0,67.0,False
+6844,Rowe,Atalanta,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,10.0,39.0,False
+5119,Samardzic,Atalanta,C,C;T,False,prendi,3.9,3.9,"3,9% (23cr)",preferito a Ederson,False,False,,False,,13.0,43.0,False
+5526,Scalvini,Atalanta,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,11.0,26.0,False
+2137,Scamacca,Atalanta,A,Pc,False,evita,,,—,mai 12%,False,False,,False,,19.0,100.0,False
+4,Sportiello,Atalanta,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5918,Sulemana K.,Atalanta,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,5.0,False
+5422,Zalewski,Atalanta,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,18.0,False
+554,Zappacosta,Atalanta,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,16.0,False
+7483,Alhassane,Bologna,D,Ds;E,False,prendi,1.0,1.0,<1% (6cr),buon rapporto qualità/prezzo,True,False,,False,,2.0,6.0,False
+7528,Amondarain,Bologna,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+184,Bernardeschi,Bologna,C,W;T,False,prendi,2.0,2.0,2% (12cr),occasione cosmica,False,False,,True,2% (12cr),10.0,26.0,False
+4436,Cambiaghi,Bologna,C,W;A,False,prendi,1.0,1.0,1% (6cr),ultimo slot,False,False,,False,,8.0,25.0,False
+5498,Casale,Bologna,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,5.0,False
+487,De Silvestri,Bologna,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+6675,Dovbyk,Bologna,A,Pc,False,evita,6.2,6.2,"6,2% (37cr)",mai oltre,True,False,,False,,16.0,50.0,False
+6225,El Azzouzi O.,Bologna,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,10.0,False
+7627,Enem,Bologna,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,4.0,False
+5858,Ferguson,Bologna,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,23.0,False
+7533,Happonen,Bologna,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7212,Heggem,Bologna,D,Ds;Dc,False,prendi,1.0,1.0,1% (6cr),giocatore affidabile,False,False,,False,,5.0,15.0,False
+7326,Helland,Bologna,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+5678,Holm,Bologna,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,13.0,False
+7629,Libra,Bologna,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6833,Mbangula,Bologna,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,22.0,False
+4734,Miranda J.,Bologna,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,25.0,False
+6054,Moro N.,Bologna,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,14.0,False
+2765,Odgaard,Bologna,C,T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,15.0,False
+2167,Orsolini,Bologna,C,W;A,False,evita,,,—,"mai 13-14%, in calo — out fino 22/09",False,True,"13-14% (78-84cr), infortunato fino al 22/09",False,,25.0,152.0,False
+7172,Pessina Mas.,Bologna,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4359,Piccoli,Bologna,A,Pc,False,prendi,2.0,2.0,2% (12cr),ottimo ultimo/penultimo slot,False,False,,True,2% (12cr),9.0,50.0,False
+5298,Pobega,Bologna,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,12.0,False
+133,Skorupski,Bologna,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,10.0,32.0,False
+5675,Theate,Bologna,D,Ds;Dc,False,prendi,1.0,1.0,1% (6cr),giocatore affidabile,True,False,,False,,8.0,20.0,False
+7068,Vitik,Bologna,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+4433,Zortea,Bologna,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,19.0,False
+4870,Adopo,Cagliari,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,13.0,False
+7548,Aurelio,Cagliari,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,5.0,False
+4360,Caprile,Cagliari,P,,True,solo_sotto,2.0,2.0,2% (12cr),solo in alternanza,False,False,,False,,11.0,25.0,False
+5462,Ciervo,Cagliari,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+1871,Deiola,Cagliari,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,8.0,False
+6815,Fadera,Cagliari,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+6010,Fazzini,Cagliari,C,C;T,False,prendi,1.0,1.5,"1-1,5% (6-9cr)",unico giocatore da prendere,False,False,,False,,8.0,28.0,False
+6640,Felici,Cagliari,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,7.0,False
+801,Gagliardini,Cagliari,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,8.0,False
+7125,Idrissi R.,Cagliari,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,3.0,False
+7547,Kevin Carlos,Cagliari,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,12.0,30.0,False
+7532,Kofler,Cagliari,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,8.0,False
+7165,Liteta,Cagliari,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4896,Maldini,Cagliari,A,T;A,False,prendi,1.0,1.0,1% (6cr),sicuro che gioca,False,False,,False,,7.0,25.0,False
+7579,Massolin,Cagliari,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+7374,Mendy P.,Cagliari,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,14.0,False
+4210,Mina,Cagliari,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,20.0,False
+5336,Nzola,Cagliari,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+5701,Obert,Cagliari,D,B;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,15.0,False
+3,Radunovic,Cagliari,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7268,Rodriguez Ju.,Cagliari,D,Ds;Dc,False,solo_sotto,,,ultimo slot,Mina/Zappa troppo incostanti,False,False,,False,,5.0,14.0,False
+7311,Romano,Cagliari,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,21.0,False
+6650,Sherri,Cagliari,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7621,Sugawara,Cagliari,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,15.0,False
+7317,Trepy,Cagliari,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4260,Winks,Cagliari,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,15.0,False
+7274,Zè Pedro,Cagliari,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,13.0,False
+7127,Addai,Como,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+7126,Baturina,Como,C,T,False,prendi,10.0,10.0,10% (60cr),"occasione, prima 6%",False,False,,False,,21.0,155.0,False
+6966,Butez,Como,P,,True,prendi,8.4,8.4,"8,4% (50cr)",ottima scelta,False,False,,False,,15.0,50.0,False
+5036,Caqueret,Como,C,C;T,False,prendi,14.0,15.0,14-15% (84-90cr),top centrocampista — confidenza media sul nome,True,False,,False,,7.0,12.0,False
+5641,Chalobah T.,Como,D,Dd;Dc,False,prendi,4.0,4.0,4% (24cr),"separato da Ramon, altro ""regalo""",True,False,,False,,10.0,32.0,False
+6727,Couto,Como,D,Dd;E,False,prendi,3.0,3.0,3% (18cr),"titolare, proiezione offensiva",False,False,,False,,9.0,32.0,False
+5559,Da Cunha,Como,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,18.0,85.0,False
+6967,Diao,Como,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,14.0,70.0,False
+7017,Douvikas,Como,A,Pc,False,solo_sotto,12.0,13.0,12-13% (72-78cr),occhio al ballottaggio con Kean,False,False,,False,,21.0,180.0,False
+418,Goldaniga,Como,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7414,Kaiki,Como,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,13.0,False
+6601,Kambwala,Como,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,8.0,False
+2097,Kean,Como,A,Pc,False,evita,,,—,mai 18%,False,True,"18% (108cr), Como",False,,25.0,185.0,False
+6893,Kempf,Como,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,13.0,False
+7357,Lahdo,Como,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6678,Liberali,Como,C,T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,17.0,False
+7412,Milla,Como,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,28.0,False
+6875,Paz N.,Como,C,T;A,False,evita,,,—,mai 18%,False,True,"18% (108cr), Como",False,,30.0,250.0,False
+6151,Perrone,Como,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,11.0,33.0,False
+6869,Ramon,Como,D,Dc,False,prendi,4.0,4.0,4% (24cr),"""regalo cosmico""",False,False,,False,,10.0,31.0,False
+5453,Ricci S.,Como,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+7129,Rodriguez Je.,Como,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,11.0,26.0,False
+6344,Sanchez Ro.,Como,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,15.0,False
+7014,Smolcic I.,Como,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+6867,Valle,Como,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,26.0,False
+2809,Vigorito,Como,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6908,Atta,Fiorentina,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,15.0,72.0,False
+5694,Beto,Fiorentina,A,Pc,False,prendi,7.0,8.0,7-8% (42-48cr),fortemente consigliato,False,False,,False,,14.0,47.0,False
+4947,Brescianini,Fiorentina,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,11.0,False
+6403,Christensen O.,Fiorentina,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+2521,De Gea,Fiorentina,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,10.0,25.0,False
+5885,Dodò,Fiorentina,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,20.0,False
+5365,Dragusin,Fiorentina,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,20.0,False
+4465,Fagioli,Fiorentina,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,18.0,False
+7623,Gnonto,Fiorentina,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,23.0,False
+7625,Goncalves P.,Fiorentina,C,W;T,False,prendi,7.0,7.0,7% (42cr),"""Pedro Gonçalves"", scelta definitiva n.1",True,False,,False,,12.0,47.0,False
+6531,Jimenez A.,Fiorentina,D,Dd;Ds;E,False,prendi,2.4,2.4,"2,4% (14cr)",investimento importante,False,False,,False,,7.0,17.0,False
+7175,Joao Mario,Fiorentina,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+158,Lezzerini,Fiorentina,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7078,Mastantuono,Fiorentina,C,W;T,False,solo_sotto,6.0,7.0,6-7% (36-42cr),secondario a Goncalves,False,False,,False,,11.0,39.0,False
+6294,Ndour,Fiorentina,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,18.0,False
+6827,Njie,Fiorentina,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,25.0,False
+7464,Oulai,Fiorentina,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,18.0,False
+5449,Parisi,Fiorentina,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+7023,Pellegrino M.,Fiorentina,A,Pc,False,solo_sotto,,,—,tenerlo se già preso,False,False,,False,,14.0,50.0,False
+5603,Pongracic,Fiorentina,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,8.0,False
+4378,Ranieri L.,Fiorentina,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,10.0,False
+7294,Valdepenas,Fiorentina,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,13.0,False
+7410,Viery,Fiorentina,D,Ds;Dc,False,prendi,1.0,1.0,1% (6cr),preferito a Dragusin,True,False,,False,,5.0,12.0,False
+7540,Akpoguma,Frosinone,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,6.0,False
+5424,Amey,Frosinone,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7610,Birligea,Frosinone,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,7.0,False
+7612,Bobcek,Frosinone,A,Pc,False,solo_sotto,0.8333333333333334,0.8333333333333334,max 5cr,scegliere solo uno dei due,False,False,,False,,8.0,15.0,False
+7469,Bracaglia,Frosinone,D,Ds;Dc,False,prendi,1.0,1.0,1% (6cr),preferito a Monterisi,False,False,,False,,8.0,16.0,False
+7467,Calvani,Frosinone,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,13.0,False
+7472,Calò,Frosinone,C,M;C,False,prendi,2.0,2.0,2% (12cr),"""nostro giocatore""",False,False,,True,2% (12cr),8.0,27.0,False
+7473,Cichella,Frosinone,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+5757,Cittadini,Frosinone,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,8.0,False
+7463,Desplanches,Frosinone,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7456,El Azzouzi A.,Frosinone,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6506,Fini,Frosinone,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,13.0,False
+6241,Gelli F.,Frosinone,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,6.0,False
+6530,Ghedjemis,Frosinone,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,25.0,False
+7550,Grillitsch,Frosinone,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+6903,Hasa,Frosinone,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,5.0,False
+5725,Kone B.,Frosinone,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,3.0,False
+6204,Kvernadze,Frosinone,A,W;A,False,prendi,1.0,1.0,<1% (6cr),possibile sorpresa Serie A,False,False,,False,,8.0,30.0,False
+7466,Lolic,Frosinone,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6917,Masini,Frosinone,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,8.0,False
+4952,Monterisi,Frosinone,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,13.0,False
+7553,Omar Fayed,Frosinone,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6238,Oyono A.,Frosinone,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,10.0,False
+6415,Palmisani,Frosinone,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+7560,Pisseri,Frosinone,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5436,Raimondo,Frosinone,A,Pc,False,solo_sotto,0.8333333333333334,0.8333333333333334,max 5cr,scegliere solo uno dei due,False,False,,False,,11.0,55.0,False
+7551,Schmid,Frosinone,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,23.0,False
+7605,Tchato,Frosinone,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,8.0,False
+4375,Terzic,Frosinone,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,8.0,False
+5998,Zerbin,Frosinone,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,12.0,False
+7341,Amorim,Genoa,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,11.0,False
+5823,Baldanzi,Genoa,C,T,False,prendi,2.0,2.5,"2-2,5% (12-15cr)",ottima soluzione,False,False,,True,2% (12cr),11.0,24.0,False
+7332,Bijlow,Genoa,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,12.0,False
+4923,Colombo,Genoa,A,Pc,False,prendi,6.0,6.0,6% (36cr),"rigorista, ottimo acquisto",False,False,,False,,11.0,55.0,False
+5742,Drameh,Genoa,D,Dd;Ds;E,False,solo_sotto,1.0,1.0,1% (6cr),ultimo slot,False,False,,False,,3.0,10.0,False
+6047,Ehizibue,Genoa,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+795,El Shaarawy,Genoa,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,20.0,False
+6020,Ellertsson,Genoa,C,E;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+5791,Frendrup,Genoa,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,19.0,False
+7453,Havel,Genoa,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,5.0,False
+6660,Marcandalli,Genoa,D,Dc,False,prendi,1.0,1.0,1% (6cr),titolare per completare reparto,False,False,,False,,6.0,14.0,False
+7409,Meichtry,Genoa,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,11.0,False
+4970,Messias,Genoa,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,8.0,False
+7537,Mitaj,Genoa,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+7600,Osmajic,Genoa,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,34.0,False
+5750,Ostigard,Genoa,D,Dc,False,prendi,4.0,4.0,4% (24cr),vice-rigorista palle inattive,False,False,,False,,10.0,34.0,False
+6977,Otoa,Genoa,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,5.0,False
+7413,Puczka,Genoa,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,3.0,False
+7622,Robinho Junior,Genoa,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,2.0,False
+791,Sabelli,Genoa,D,Dd;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,5.0,False
+219,Sommariva,Genoa,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5946,Sow,Genoa,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,14.0,False
+6569,Stolz,Genoa,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+2857,Traorè Hj.,Genoa,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,11.0,False
+5514,Vasquez,Genoa,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,30.0,False
+6980,Venturino,Genoa,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+6164,Vitinha O.,Genoa,A,A,False,solo_sotto,1.0,1.0,1% (6cr),se serve completare,False,False,,False,,7.0,12.0,False
+4159,Akanji,Inter,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,15.0,45.0,False
+1870,Barella,Inter,C,C,False,solo_sotto,6.6,6.6,"6,6% (40cr)",ci sono alternative,False,False,,False,,17.0,81.0,False
+2120,Bastoni,Inter,D,Dc,False,evita,,,—,"6,6% troppo caro",False,False,,False,,14.0,42.0,False
+6217,Bisseck,Inter,D,Dc,False,solo_sotto,3.0,4.0,3-4% (18-24cr),spesso infortunato,False,False,,False,,13.0,36.0,False
+6669,Bonny,Inter,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,15.0,False
+2194,Calhanoglu,Inter,C,M;C,False,prendi,15.0,15.0,"15% (90cr) (15,5% (93cr))",miglior CC Serie A,False,False,,True,15% (90cr),28.0,242.0,False
+5877,Carlos Augusto,Inter,D,B;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,20.0,False
+1926,Di Gennaro,Inter,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+254,Dimarco,Inter,D,E;W,False,solo_sotto,15.0,15.0,15% (90cr),rischioso,False,False,,False,,31.0,250.0,False
+6274,Diouf,Inter,C,E;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,43.0,False
+7071,Esposito F.P.,Inter,A,Pc,False,prendi,14.0,14.0,14% (84cr),coppia con Thuram (38% tot vs 34% Lautaro),False,False,,True,coppia con Thuram,17.0,105.0,False
+5172,Jones C.,Inter,C,C,False,prendi,4.0,4.0,4% (24cr),preferito a Zielinski,False,False,,False,,12.0,42.0,False
+5301,Luis Henrique,Inter,C,E;W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+5116,Martinez Jo.,Inter,P,,True,evita,9.0,11.0,9-11% (54-66cr),"troppo caro, meglio Svilar/Carnesecchi",True,False,,False,,17.0,68.0,False
+2764,Martinez L.,Inter,A,Pc,False,evita,,,—,mai 33-34%,False,True,33-34% (198-204cr),False,,35.0,390.0,False
+2529,Mkhitaryan,Inter,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,9.0,False
+4177,Pavard,Inter,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+2814,Provedel,Inter,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,5.0,False
+5982,Spence,Inter,D,E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,11.0,32.0,False
+6503,Stankovic A.,Inter,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,7.0,False
+2514,Stones,Inter,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,12.0,22.0,False
+7070,Sucic P.,Inter,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,20.0,False
+4871,Thuram,Inter,A,Pc,False,prendi,24.0,24.0,24% (144cr),titolare indiscusso,False,False,,True,coppia con Esposito F.P.,28.0,260.0,False
+152,Zielinski,Inter,C,C,False,evita,,,—,mai 6%,False,False,,False,,12.0,42.0,False
+7436,Alajbegovic,Juventus,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,True,">6% (>36cr), Juventus",False,,11.0,42.0,False
+2832,Boga,Juventus,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,27.0,False
+2788,Bremer,Juventus,D,Dc,False,evita,5.0,6.0,5-6% (30-36cr),"mai 7,4%",False,False,,False,,16.0,60.0,False
+6039,Cabal,Juventus,D,B;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+5520,Cambiaso,Juventus,D,Dd;Ds;E,False,evita,,,—,mai,False,True,,False,,8.0,15.0,False
+4657,Celik,Juventus,D,B;Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,16.0,False
+6884,Conceicao,Juventus,C,W;A,False,evita,,,—,mai 7%,False,False,,False,,13.0,69.0,False
+4911,Douglas Luiz,Juventus,C,C,False,evita,,,—,non oltre 10 crediti,False,False,,False,,4.0,15.0,False
+6822,Ekhator,Juventus,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,7.0,False
+5831,Gatti,Juventus,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,10.0,False
+4179,Gonzalez N.,Juventus,C,W;A,False,prendi,2.2,2.2,"2,2% (13cr)",preferito a Conceição,False,False,,True,"2,2% (13cr)",13.0,48.0,False
+7603,Grabara,Juventus,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4976,Kalulu,Juventus,D,Dd;Dc,False,prendi,4.0,5.0,4-5% (24-30cr),"certezza, preferito a Bremer",False,False,,False,,14.0,47.0,False
+6766,Kelly L.,Juventus,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+5951,Kolo Muani,Juventus,A,Pc,False,solo_sotto,22.0,22.0,22% (132cr),può giocare con Woltemade,False,False,,False,,24.0,143.0,False
+5685,Koopmeiners,Juventus,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,20.0,False
+827,Locatelli,Juventus,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,25.0,False
+6042,Lucumì,Juventus,D,Dc,False,prendi,,,pari a Kelly,preferito a Kelly,False,False,,False,,8.0,17.0,False
+4973,McKennie,Juventus,C,C;T,False,prendi,5.0,5.0,5% (30cr),"""regalo di Natale""",False,False,,True,5% (30cr),16.0,70.0,False
+2012,Milik,Juventus,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,3.0,False
+1930,Pinsoglio,Juventus,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+294,Rugani,Juventus,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,3.0,False
+5680,Sarr P.,Juventus,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,25.0,False
+5562,Thuram K.,Juventus,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,20.0,False
+4964,Vicario,Juventus,P,,True,prendi,9.0,9.0,9% (54cr),meglio di Meret,False,False,,False,,16.0,69.0,False
+6752,Woltemade,Juventus,A,A,False,prendi,18.0,18.0,18% (108cr),consigliato con forza,True,False,,False,,23.0,140.0,False
+6434,Yildiz,Juventus,A,A,False,solo_sotto,6.0,6.0,6% (36cr),"sceso di prezzo, ma fuori ~3 mesi, non priorità stasera",False,False,,False,,21.0,80.0,False
+5761,Zhegrova,Juventus,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+6191,Belahyane,Lazio,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,3.0,False
+5500,Cancellieri,Lazio,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,21.0,False
+333,Cataldi,Lazio,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+6629,Dele-Bashiru,Lazio,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,13.0,False
+6320,Doekhi,Lazio,D,Dc,False,prendi,1.0,1.0,1% (6cr),"(non ""Gila"", che è del Milan)",True,False,,False,,8.0,16.0,False
+7131,Floriani Mussolini,Lazio,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+2848,Frattesi,Lazio,C,C;T,False,prendi,6.0,6.4,"6-6,4% (36-38cr)",consigliato con forza,False,False,,True,"6-6,4% (36-38cr)",11.0,120.0,False
+5800,Gudmundsson A.,Lazio,C,T;A,False,prendi,4.0,4.0,4% (24cr),"""regalato"" (non è della Fiorentina)",True,False,,False,,13.0,44.0,False
+6398,Isaksen,Lazio,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,22.0,False
+2263,Lazzari,Lazio,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,5.0,False
+6319,Leite,Lazio,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+6482,Mandas,Lazio,P,,True,prendi,3.8,3.8,"3,8% (23cr)",buona opportunità low cost,False,False,,False,,11.0,37.0,False
+2188,Marusic,Lazio,D,Dd;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,20.0,False
+7337,Motta,Lazio,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6556,Noslin,Lazio,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,8.0,False
+327,Patric,Lazio,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4817,Pedraza,Lazio,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+2728,Pellegrini Lu.,Lazio,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,7.0,False
+2038,Pinamonti,Lazio,A,Pc,False,prendi,8.0,8.0,8% (48cr),titolare senza vera alternativa,True,False,,False,,12.0,52.0,False
+7012,Provstgaard,Lazio,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,13.0,False
+7345,Przyborek,Lazio,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,5.0,False
+7534,Renzetti,Lazio,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4459,Rovella,Lazio,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,16.0,False
+7580,Sutalo J.,Lazio,D,Dc,False,solo_sotto,1.0,1.0,1% (6cr),possibile,False,False,,False,,6.0,19.0,False
+5620,Tavares N.,Lazio,D,Ds;E,False,prendi,1.3,1.3,"1,3% (8cr)",fortemente consigliato,False,False,,True,"1,3% (8cr)",7.0,27.0,False
+7314,Taylor K.,Lazio,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,13.0,45.0,False
+632,Zaccagni,Lazio,C,W;A,False,evita,6.0,7.0,6-7% (36-42cr),mai 8%,False,True,>7% (>42cr),False,,16.0,92.0,False
+6015,Berisha M.,Lecce,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+4468,Bleve,Lecce,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5504,Coulibaly L.,Lecce,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,17.0,False
+6826,Dembelè A.,Lecce,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,2.0,False
+2134,Falcone,Lecce,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,26.0,False
+7602,Fatah,Lecce,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,8.0,False
+7319,Fofana Sa.,Lecce,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4502,Gallo,Lecce,D,Ds;E,False,prendi,0.16666666666666669,0.33333333333333337,1-2cr,"titolare, può portare bonus",False,False,,False,,5.0,12.0,False
+7318,Gandelman,Lecce,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+6632,Gaspar K.,Lecce,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+5029,Geubbels,Lecce,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,21.0,False
+7248,Gorter,Lecce,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+5007,Ilic,Lecce,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,10.0,False
+6883,Jean,Lecce,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+6410,Kaba,Lecce,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,2.0,False
+7571,Laerke,Lecce,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5457,Maleh,Lecce,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,7.0,False
+7619,Monteiro J.,Lecce,C,W;A,False,prendi,0.16666666666666669,0.16666666666666669,1cr,"""Montero"" nel video, sconosciuto ai più",True,False,,False,,7.0,21.0,False
+7001,N'Dri,Lecce,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+7182,Ndaba,Lecce,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,5.0,False
+7322,Ngom,Lecce,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+7557,Penev,Lecce,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6549,Pierotti,Lecce,C,W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,19.0,False
+7240,Siebert,Lecce,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+7252,Stulic,Lecce,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,11.0,False
+6989,Tiago Gabriel,Lecce,D,Dc,False,prendi,0.16666666666666669,0.33333333333333337,1-2cr,una delle poche certezze,True,False,,False,,8.0,20.0,False
+6990,Veiga D.,Lecce,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+6496,Bartesaghi,Milan,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,15.0,False
+NA-bobby-malen-leao,Bobby Malen/Leao,Milan,A,,False,ceduto,33.0,40.0,33-40% (198-240cr),"non trovato nel listone Milan 2026-27 — verifica se ceduto — CEDUTO: risulta tra i giocatori ceduti/non più in Serie A 2026/27, non disponibile in asta.",False,False,,False,,,,True
+6519,Camarda,Milan,A,Pc,False,solo_sotto,,,—,seconda scelta dopo Ramos G.,False,False,,False,,4.0,20.0,False
+4856,Chukwueze,Milan,C,E;W,False,solo_sotto,2.0,2.0,2% (12cr),possibile,False,False,,False,,8.0,20.0,False
+6618,Cissè A.,Milan,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,40.0,False
+7572,Comotto,Milan,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5739,De Winter,Milan,D,Dd;Dc,False,evita,,,—,evitare,False,False,,False,,5.0,25.0,False
+7525,Diawara S.,Milan,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+5273,Estupinan,Milan,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,13.0,False
+4401,Gabbia,Milan,D,Dc,False,prendi,4.0,4.0,4% (24cr),"""regalo clamoroso""",False,False,,True,4% (24cr),7.0,14.0,False
+5833,Gila,Milan,D,Dc,False,prendi,4.0,4.0,4% (24cr),regalo — non è della Lazio,True,False,,False,,13.0,31.0,False
+7618,Hutchinson,Milan,C,W;A,False,prendi,0.6,1.0,"0,6-1% (4-6cr)",titolare potenziale,False,False,,True,1% (6cr),8.0,21.0,False
+7203,Jashari,Milan,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,13.0,False
+4199,Loftus-Cheek,Milan,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,15.0,False
+4312,Maignan,Milan,P,,True,evita,,,—,"TRAPPOLA mai 9,5%",False,True,"9,5% (57cr)",False,,15.0,52.0,False
+2606,Modric,Milan,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,12.0,45.0,False
+6372,Moreira,Milan,C,E;W,False,prendi,3.0,4.0,3-4% (18-24cr),farà benissimo,False,False,,True,coppia con Saelemaekers,11.0,37.0,False
+5295,Musah,Milan,C,C;W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,16.0,False
+5022,Pavlovic,Milan,D,Dc,False,evita,,,—,evitare anche a 5%,False,False,,False,,14.0,47.0,False
+2423,Pulisic,Milan,C,T;A,False,solo_sotto,8.0,9.0,8-9% (48-54cr),ok se sotto il 9%,False,False,,False,,23.0,140.0,False
+2379,Rabiot,Milan,C,C;T,False,evita,7.0,7.0,7% (42cr) (ideale 2% (12cr)),TRAPPOLA mai 9%,False,True,9% (54cr),False,,22.0,142.0,False
+6397,Ramos G.,Milan,A,Pc,False,prendi,28.0,28.0,28% (168cr),attaccante senza alternativa,False,False,,True,28% (168cr),27.0,232.0,False
+4892,Saelemaekers,Milan,C,E;W,False,prendi,2.0,2.0,2% (12cr),coppia con Moreira,False,False,,True,coppia con Moreira,11.0,32.0,False
+2815,Terracciano,Milan,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5812,Terracciano F.,Milan,D,B;Dd;Ds,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+4751,Tomori,Milan,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,8.0,False
+6813,Torriani,Milan,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6593,Akinsanmiro,Monza,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,11.0,False
+5399,Antov,Monza,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,2.0,False
+7476,Bakoune,Monza,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+5838,Birindelli,Monza,D,Dd;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+4925,Carboni A.,Monza,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,9.0,False
+5880,Ciurria,Monza,C,E;W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,6.0,False
+7477,Colombo L.,Monza,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,4.0,False
+5878,Colpani,Monza,C,T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,15.0,False
+2155,Cutrone,Monza,A,Pc,False,solo_sotto,0.16666666666666669,0.16666666666666669,1cr,ripiego se Varela troppo caro,False,False,,False,,9.0,20.0,False
+7574,Foe Ondoa,Monza,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,2.0,False
+6252,Folorunsho,Monza,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,17.0,False
+6592,Forson O.,Monza,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,1.0,False
+6537,Goglichidze,Monza,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,5.0,False
+7238,Kouadio,Monza,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,14.0,False
+6659,Lucchesi,Monza,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,11.0,False
+7485,Mangas,Monza,D,Ds;E,False,prendi,1.3,1.3,"1,3% (8cr) (fino 3cr)",porta bonus,False,False,,True,coppia con Varela G.,7.0,15.0,False
+7604,Maye,Monza,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5882,Mota,Monza,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,8.0,False
+7575,Mout,Monza,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,12.0,False
+6145,Ngonge,Monza,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,13.0,False
+2741,Pessina,Monza,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,15.0,False
+7546,Robinson J.,Monza,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,12.0,False
+7475,Strajnar,Monza,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4485,Thiam,Monza,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,5.0,False
+7301,Tornqvist,Monza,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,10.0,False
+7146,Tourè I.,Monza,C,E;M,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,14.0,False
+7523,Varela G.,Monza,A,Pc,False,prendi,2.0,2.0,2% (12cr),priorità assoluta,False,False,,True,coppia con Mangas,7.0,36.0,False
+7620,Zeballos,Monza,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,17.0,False
+7260,Ziolkowski,Monza,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,8.0,False
+4664,Badiashile,Napoli,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,18.0,False
+6202,Beukema,Napoli,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+2724,Buongiorno,Napoli,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,15.0,False
+2845,Contini,Napoli,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+2517,De Bruyne,Napoli,C,T,False,evita,,,—,TRAPPOLA mai 8%,False,True,8% (48cr),False,,17.0,103.0,False
+2816,Di Lorenzo,Napoli,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,12.0,37.0,False
+NA-diao-dio,Diao/Dio,Napoli,A,,False,da_verificare,3.8,3.8,"3,8% (23cr)","nessuna corrispondenza chiara — verifica tu (forse Santos A. o Lang) — NON TROVATO NEL LISTONE, verifica tu (nome incerto o refuso).",False,False,,False,,,,True
+7563,Favasuli,Napoli,D,Dd;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,11.0,False
+5131,Gilmour,Napoli,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,10.0,False
+7162,Giovane,Napoli,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,3.0,False
+6052,Hojlund,Napoli,A,Pc,False,evita,,,—,TRAPPOLA mai 25%,False,True,25% (150cr),False,,29.0,285.0,False
+7120,Lang,Napoli,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,14.0,False
+4287,Lobotka,Napoli,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,23.0,False
+6215,Lucca,Napoli,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+6809,Marianucci,Napoli,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,3.0,False
+6638,Marin R.,Napoli,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,8.0,False
+4777,McTominay,Napoli,C,C;T,False,prendi,14.0,14.0,14% (84cr),"""il Rabiot di Allegri"" — rientro inizio ottobre",False,False,,True,"14% (84cr), rientro atteso inizio ottobre",26.0,190.0,False
+572,Meret,Napoli,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,11.0,49.0,False
+2170,Milinkovic-Savic V.,Napoli,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,5.0,False
+6831,Neres,Napoli,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,20.0,False
+5840,Olivera,Napoli,D,B;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,13.0,False
+536,Politano,Napoli,C,W,False,prendi,2.0,2.0,2% (12cr),titolare,False,False,,True,2% (12cr),10.0,40.0,False
+4409,Rrahmani,Napoli,D,Dc,False,prendi,5.0,5.0,5% (30cr),Allegri valorizza palle inattive,False,False,,True,5% (30cr),14.0,50.0,False
+7351,Santos A.,Napoli,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,14.0,58.0,False
+1852,Spinazzola,Napoli,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,24.0,False
+7223,Vergara,Napoli,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,34.0,False
+4220,Zambo Anguissa,Napoli,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,10.0,35.0,False
+6207,Almqvist,Parma,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,11.0,False
+6666,Bernabè,Parma,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,31.0,False
+7255,Britschgi,Parma,D,Dd;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+6149,Carboni F.,Parma,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,3.0,False
+6662,Corvi,Parma,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+7276,Cremaschi,Parma,C,E;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,3.0,False
+7411,Daffara,Parma,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,7.0,False
+7568,De Martis,Parma,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6664,Delprato,Parma,D,B;Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,21.0,False
+7536,Diallo O.,Parma,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+4137,Diego Carlos,Parma,D,Dc,False,prendi,0.16666666666666669,0.16666666666666669,1cr,chiude la difesa,False,False,,True,coppia con Troilo,8.0,23.0,False
+7615,Drobnic,Parma,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,1.0,False
+7342,Elphege,Parma,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+6206,Fabbian,Parma,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,8.0,False
+7213,Frigan,Parma,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,6.0,False
+2874,Ghidotti,Parma,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6898,Keita M.,Parma,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,15.0,False
+7561,Lontani,Parma,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,17.0,False
+7202,Ndiaye,Parma,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,8.0,False
+4349,Nicolussi Caviglia,Parma,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,16.0,False
+7138,Ordonez C.,Parma,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+7554,Romero D.,Parma,A,Pc,False,prendi,1.0,1.0,1% (6cr),più bonus del Bilal Touré,False,False,,False,,10.0,32.0,False
+7628,Sierro,Parma,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6229,Tourè E.,Parma,A,Pc,False,evita,,,—,"""Bilal Touré"", troppo caro (~10cr)",True,False,,False,,11.0,34.0,False
+7235,Troilo,Parma,D,Dc,False,prendi,0.16666666666666669,0.16666666666666669,1cr,occhio palle inattive,False,False,,True,coppia con Diego Carlos,4.0,14.0,False
+5307,Valenti,Parma,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+5862,Valeri,Parma,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,22.0,False
+4705,Balerdi,Roma,D,Dc,False,prendi,0.16666666666666669,0.16666666666666669,1cr,,False,False,,False,,6.0,11.0,False
+6572,Castro S.,Roma,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,14.0,70.0,False
+779,Cristante,Roma,C,M;C,False,evita,,,—,evitare entrambi,False,False,,False,,9.0,29.0,False
+7048,De Marzi,Roma,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+22,De Roon,Roma,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+309,Dybala,Roma,A,A,False,solo_sotto,12.0,13.0,12-13% (72-78cr),"non oltre 13%, mai 14%",False,False,,False,,16.0,110.0,False
+6631,Ghilardi,Roma,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,10.0,False
+610,Gollini,Roma,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4807,Hermoso,Roma,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,12.0,35.0,False
+5589,Konè M.,Roma,C,M;C,False,evita,,,—,evitare entrambi,False,False,,False,,10.0,38.0,False
+7529,Koulierakis,Roma,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,15.0,False
+7599,Lulli,Roma,D,E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+5585,Malen,Roma,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,37.0,445.0,False
+2296,Mancini,Roma,D,Dc,False,prendi,4.0,5.0,4-5% (24-30cr),preferito a Bremer,False,False,,True,4-5% (24-30cr),15.0,50.0,False
+4998,Molina N.,Roma,D,E,False,solo_sotto,7.0,7.0,7% (42cr),"meglio di Wesley, ma al limite",False,False,,False,,18.0,71.0,False
+7556,Mora,Roma,C,T,False,solo_sotto,6.0,6.0,"max 6% (36cr) (8,5% (51cr) mai)",troppa concorrenza — non è della Juventus,True,False,,False,,20.0,100.0,False
+4317,N'Dicka,Roma,D,Dc,False,evita,,,—,preferire Kalulu/Rrahmani,False,False,,False,,12.0,41.0,False
+530,Pellegrini Lo.,Roma,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,20.0,False
+6190,Pisilli,Roma,C,C,False,prendi,1.0,1.0,1% (6cr),al loro posto,False,False,,True,1% (6cr),7.0,19.0,False
+6986,Rensch,Roma,D,B;Dd;E,False,prendi,0.16666666666666669,0.16666666666666669,1cr,,False,False,,False,,4.0,14.0,False
+5734,Soulè,Roma,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,15.0,54.0,False
+5841,Svilar,Roma,P,,True,prendi,11.0,11.0,11% (66cr),seconda scelta assoluta,False,False,,True,11% (66cr),18.0,83.0,False
+7181,Wesley,Roma,D,E,False,evita,,,—,mai 9%,False,True,9% (54cr),False,,18.0,95.0,False
+6677,Adzic,Sassuolo,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,16.0,False
+7036,Bakola,Sassuolo,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+531,Berardi,Sassuolo,A,A,False,prendi,9.0,9.0,9% (54cr),grande opportunità se sta bene,False,False,,True,9% (54cr),19.0,108.0,False
+6219,Boloca,Sassuolo,C,M;C,False,prendi,0.16666666666666669,0.16666666666666669,1cr,grande intuizione — rientro 30/09,False,False,,True,"1cr, rientro 30/09",1.0,5.0,False
+7347,Bowie,Sassuolo,A,Pc,False,prendi,2.0,2.0,2% (12cr),"titolare centrale (""Bowe"" nel video)",True,False,,True,2% (12cr),10.0,32.0,False
+4147,Caleta-Car,Sassuolo,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,11.0,False
+6985,Candè,Sassuolo,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,7.0,False
+7573,Cinquegrano,Sassuolo,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,4.0,False
+5851,Doig,Sassuolo,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,10.0,False
+6895,Dominguez B.,Sassuolo,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,12.0,False
+4463,Esposito Se.,Sassuolo,A,A,False,solo_sotto,3.0,4.0,3-4% (18-24cr),seconda scelta dopo Bowie,False,False,,False,,12.0,35.0,False
+6672,Idzes,Sassuolo,D,Dc,False,da_verificare,0.16666666666666669,0.16666666666666669,1cr,"non trovato nel listone Venezia — verifica tu (nota: la guida lo indicava a Venezia, nel listone risulta a Sassuolo)",False,False,,False,,7.0,19.0,False
+6717,Konè I.,Sassuolo,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,20.0,False
+6060,Laurientè,Sassuolo,A,A,False,evita,4.0,4.0,4% (24cr),mai 6%,False,False,,False,,15.0,80.0,False
+7564,Leysen F.,Sassuolo,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,12.0,False
+6246,Lipani,Sassuolo,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,5.0,False
+2528,Matic,Sassuolo,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,15.0,False
+4236,Muric,Sassuolo,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,15.0,False
+7329,Obrador,Sassuolo,D,Ds;E,False,prendi,0.16666666666666669,0.16666666666666669,1cr,alla lunga sarà titolare,False,False,,False,,6.0,13.0,False
+7154,Odenthal,Sassuolo,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,8.0,False
+7156,Pieragnolo,Sassuolo,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+4518,Russo A.,Sassuolo,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+2127,Satalino,Sassuolo,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6024,Sulemana I.,Sassuolo,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,7.0,False
+5844,Thorstvedt,Sassuolo,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,10.0,33.0,False
+4867,Turati,Sassuolo,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6896,Van Der Brempt,Sassuolo,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,11.0,False
+5735,Volpato,Sassuolo,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,25.0,False
+4374,Walukiewicz,Sassuolo,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+7183,Aboukhlal,Torino,C,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,5.0,False
+6646,Adams C.,Torino,A,A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,12.0,31.0,False
+NA-anjorin,Anjorin,Torino,C,,False,ceduto,1.0,1.0,1% (6cr),"titolare — CEDUTO: risulta tra i giocatori ceduti/non più in Serie A 2026/27, non disponibile in asta.",False,False,,False,,,,True
+7220,Belghali,Torino,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,18.0,False
+252,Biraghi,Torino,D,B;Ds;E,False,prendi,1.0,1.0,1% (6cr),preferito a Fortini,False,False,,False,,1.0,5.0,False
+7624,Braganca,Torino,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,19.0,False
+7060,Cacciamani,Torino,C,E;W,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,28.0,False
+5888,Casadei,Torino,C,C;T,False,prendi,,,—,preferito a Mandragora,False,False,,False,,9.0,23.0,False
+6642,Coco,Torino,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,14.0,False
+7526,Comert,Torino,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,14.0,False
+6495,Comuzzo,Torino,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,13.0,False
+7535,Fitz-Jim,Torino,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,18.0,False
+7069,Fortini,Torino,D,E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,12.0,False
+6170,Gineitis,Torino,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+6005,Ilkhan,Torino,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,8.0,False
+5010,Ismajli,Torino,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,13.0,False
+NA-israel,Israel,Torino,P,,True,da_verificare,,,—,"non trovato nel listone Torino (portieri: Perri, Mascardi, Paleari, Siviero) — NON TROVATO NEL LISTONE, verifica tu (nome incerto o refuso).",False,False,,False,,,,True
+7349,Kulenovic,Torino,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,7.0,False
+1933,Mandragora,Torino,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,10.0,35.0,False
+7457,Mascardi,Torino,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,5.0,False
+6218,Oristanio,Torino,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,12.0,False
+5751,Patterson,Torino,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+6534,Perri,Torino,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,9.0,23.0,False
+2169,Rodriguez R.,Torino,D,B;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+2061,Simeone,Torino,A,Pc,False,prendi,10.0,10.0,10% (60cr),"garanzia, sceso di prezzo",False,False,,True,coppia con Vlasic,14.0,74.0,False
+7363,Siviero,Torino,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5687,Vlasic,Torino,C,T,False,prendi,6.0,6.0,6% (36cr),garanzia,False,False,,True,coppia con Simeone,13.0,65.0,False
+608,Zapata D.,Torino,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,12.0,False
+6021,Abankwah,Udinese,D,Dd;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+7312,Arizala,Udinese,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,8.0,False
+7161,Bayo V.,Udinese,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,3.0,False
+5820,Bertola,Udinese,D,Dd;Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+7418,Chakvetadze,Udinese,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,6.0,False
+5637,Davis K.,Udinese,A,Pc,False,prendi,12.0,12.0,12% (72cr),"rigorista, punto fermo",False,False,,True,12% (72cr),19.0,113.0,False
+5994,Ebosse,Udinese,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,5.0,False
+6684,Ekkelenkamp,Udinese,C,C;T,False,prendi,4.0,4.0,4% (24cr),più bonus di Zaccagni/De Bruyne,True,False,,True,4% (24cr),12.0,57.0,False
+7272,Gueye,Udinese,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,7.0,False
+7092,Jovanovic,Udinese,C,W;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,5.0,False
+4263,Kabasele,Udinese,D,Dc,False,prendi,0.16666666666666669,0.16666666666666669,1cr,,False,False,,False,,4.0,12.0,False
+5555,Kamara H.,Udinese,D,Ds;E,False,evita,,,—,sopravvalutato,False,False,,False,,10.0,12.0,False
+6680,Karlstrom,Udinese,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,8.0,20.0,False
+7208,Miller L.,Udinese,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,12.0,False
+7611,Mrozek,Udinese,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6462,Okoye,Udinese,P,,True,prendi,3.0,3.0,3% (18cr),ottima coppia low cost,False,False,,False,,9.0,28.0,False
+543,Padelli,Udinese,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6925,Palma,Udinese,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,11.0,False
+7198,Piotrowski,Udinese,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+6956,Solet,Udinese,D,Dc,False,evita,,,—,"mai 5,8%, troppo caro",False,True,"5,8% (35cr)",False,,13.0,40.0,False
+6783,Unai Gomez,Udinese,C,T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,14.0,False
+4994,Vojvoda,Udinese,D,Dd;E,False,prendi,1.0,1.0,1% (6cr),al posto di Kamara,True,False,,False,,9.0,19.0,False
+2766,Zaniolo,Udinese,C,T;A,False,prendi,6.0,6.0,6% (36cr),"prima scelta — rientro ~10/10, solo qui, non alla Lazio",True,False,,True,"6% (36cr), Udinese, rientro atteso ~10/10",17.0,75.0,False
+5527,Zanoli,Udinese,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+6212,Zarraga,Udinese,C,M;C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,4.0,False
+7484,Adams A.,Venezia,A,Pc,False,prendi,2.0,2.0,2% (12cr),"""il Bisonte"", titolare indiscusso",False,False,,True,coppia con Busio e Basic,11.0,33.0,False
+4387,Adorante,Venezia,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,5.0,False
+5674,Basic,Venezia,C,M;C,False,prendi,,,—,sottovalutato,False,False,,True,coppia con Busio e Adams A.,6.0,19.0,False
+7253,Bella-Kotchap,Venezia,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,13.0,False
+5507,Busio,Venezia,C,M;C,False,prendi,,,—,batte rigori e palle inattive,False,False,,True,coppia con Basic e Adams A.,6.0,14.0,False
+4845,Correia T.,Venezia,D,Dd;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+7481,Dagasso,Venezia,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+526,Duncan,Venezia,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,4.0,False
+7232,Fernandez T.,Venezia,C,T;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,8.0,False
+7478,Franjic,Venezia,D,B;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,7.0,False
+7454,Gomes,Venezia,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6671,Grandi,Venezia,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6821,Hainaut,Venezia,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,12.0,False
+7538,Halhal,Venezia,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+5695,Haps,Venezia,D,Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,10.0,False
+5872,Helgason,Venezia,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,3.0,False
+256,Juan Jesus,Venezia,D,Ds;Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,10.0,False
+7482,Lauberbach,Venezia,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,2.0,1.0,False
+7408,Lisman,Venezia,A,W;A,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+5481,Mazzocchi,Venezia,D,Dd;Ds;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,10.0,False
+4957,Montipò,Venezia,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+6890,Moreno M.,Venezia,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,6.0,False
+6994,Perez K.,Venezia,C,C;T,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,15.0,False
+7531,Pozzi,Venezia,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,1.0,1.0,False
+7449,Rrahmani Al.,Venezia,A,Pc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,7.0,12.0,False
+6681,Sagrado,Venezia,D,Dd;E,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,4.0,4.0,False
+6892,Schingtienne,Venezia,D,Dc,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,3.0,10.0,False
+5319,Sohm,Venezia,C,C,False,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,5.0,11.0,False
+6248,Stankovic F.,Venezia,P,,True,nessun_consiglio,,,,Nessun consiglio — valutazione libera,False,False,,False,,6.0,11.0,False
+6673,Sverko,Venezia,D,Ds;Dc,False,prendi,0.16666666666666669,0.16666666666666669,1cr,buona scelta low cost — rientro 17/10,False,False,,False,,2.0,7.0,False
+6904,Yeboah J.,Venezia,A,A,False,solo_sotto,1.0,1.0,1% (6cr),alternativa a basso prezzo,False,False,,False,,10.0,30.0,False
